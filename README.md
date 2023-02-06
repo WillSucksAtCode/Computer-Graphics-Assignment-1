@@ -4,9 +4,9 @@ Rim Lighting and Toon Ramp were created with shader graph's to work with URP
 Rim lighting was created using the Fresnel Effect Node combined with a Color Node
 Toon ramp was created with the help of this tutorial: https://www.youtube.com/watch?v=FIP6I1x6lMA
 
-Game Build: htps://willidev.itch.io/viraldestructionnewbuild
+Game Build: https://willidev.itch.io/viraldestructionnewbuild (I had issues with git)
 
-Slide deck: https://docs.google.com/presentation/d/1Slj5Rv7sQssOBuobcQFC9AOYGcUwsKVYUcXjnqAx-eY/edit?usp=sharing  (I had issues with git)
+Slide deck: https://docs.google.com/presentation/d/1Slj5Rv7sQssOBuobcQFC9AOYGcUwsKVYUcXjnqAx-eY/edit?usp=sharing
 
 Video Link: 
 
