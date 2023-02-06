@@ -47,10 +47,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Offset: 0.69
+    - _Offset: 0.84
+    - _Offset2: 0.68
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: 0.17
+    - _Smoothness: 0
     m_Colors:
-    - _Tinting: {r: 1, g: 0.6556604, b: 0.6556604, a: 0}
+    - _Tinting: {r: 0.6226415, g: 0.34085923, b: 0.049928807, a: 0}
   m_BuildTextureStacks: []
