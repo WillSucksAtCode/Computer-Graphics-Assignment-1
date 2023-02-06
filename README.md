@@ -8,7 +8,7 @@ Game Build: https://willidev.itch.io/viraldestructionnewbuild (I had issues with
 
 Slide deck: https://docs.google.com/presentation/d/1Slj5Rv7sQssOBuobcQFC9AOYGcUwsKVYUcXjnqAx-eY/edit?usp=sharing
 
-Video Link: 
+Video Link: https://youtu.be/fzFJH73Tf3I
 
 Demo Video: https://youtu.be/0nTK8nBbCEg
 
